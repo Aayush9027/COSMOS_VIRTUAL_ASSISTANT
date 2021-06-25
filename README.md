@@ -1,4 +1,4 @@
-# COSMOS_VIRTUAL_ASSISTANT
+# COSMOS-VIRTUAL ASSISTANT
 It is an open source accessibility tool created for better usability and interactivity with you computer system using just voice commands. It is a two way communicating virtual assistant developed in python. It is currently under development.
 # About Cosmos - An Intelligent Assistant 🧠
 Cosmos is a voice commanding assistant service in [Python 3.5+](https://www.python.org/downloads/release/python-360/)
@@ -35,10 +35,52 @@ It can recognize human speech, talk to user and execute basic commands.
 *   **Tells about battery** (e.g 'How much power is left')
 
 ## Getting Started
-### Create KEYs for third party APIs
+
+## Tech Stacks
+**Python 3.7**
+
+## Prerequisites
+- You should install python version 3.7
+- import all modules required for the project using this command
+```
+pip install <module name>
+```
+
+## Create KEYs for third party APIs
 COSMOS Assistant uses third party APIs for cryptocurrency,advance mode search, weather forecasting etc.
 All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
 *   [OpenWeatherMap](https://openweathermap.org/): API for weather forecast.
 *   [coinmarketcap](https://coinmarketcap.com/):API for Cryptocurrency
 *   [WolframAlpha](https://products.wolframalpha.com/api/): API for WOLFRAMALPHA.
 *   [Newsapi](https://newsapi.org/): API for NEWS.
+
+## Note  
+Feel free to file a new issue with a respective title and description on the **COSMOS-VIRTUAL ASSISTANT**.  If you already found a solution to your problem, I would love to review your pull request! 
+
+## Installation and Contribution
+1. Clone the repository 
+```
+https:
+```
+2. Check the status of your file 
+```
+$git status
+```
+
+3.For using VScode for editing your files 
+```
+$git code .
+```
+4. To directly add your files to github
+```
+$git add .
+```
+5. After writing your code commit your changes 
+```
+$git commit -m  <message>
+```
+6. To pull your code to reposoitory
+```
+$git push origin master
+```
+Thats all about installation and version control with **Git**
