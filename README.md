@@ -46,6 +46,8 @@ It can recognize human speech, talk to user and execute basic commands.
 pip install <module name>
 ```
 
+To execute this project elsewhere, you would need all the additional modules and dependencies used in the project. Therefore, install "**requirement.txt**" file by giving a command - "**$ pip install -r requirement.txt**" (without quotes) to install all the required dependencies.
+
 ## Create KEYs for third party APIs
 COSMOS Assistant uses third party APIs for cryptocurrency,advance mode search, weather forecasting etc.
 All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
@@ -84,3 +86,4 @@ $git commit -m  <message>
 $git push origin master
 ```
 Thats all about installation and version control with **Git**
+
