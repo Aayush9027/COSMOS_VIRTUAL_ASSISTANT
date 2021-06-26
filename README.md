@@ -62,7 +62,7 @@ Feel free to file a new issue with a respective title and description on the **C
 ## Installation and Contribution
 1. Clone the repository 
 ```
-https://github.com/Aayush9027/COSMOS_VIRTUAL_ASSISTANT.git
+$git clone https://github.com/Aayush9027/COSMOS_VIRTUAL_ASSISTANT.git
 ```
 2. Check the status of your file 
 ```
