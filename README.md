@@ -10,7 +10,7 @@ It can recognize human speech, talk to user and execute basic commands.
 *   **Do basic calculations**(e.g 'Activate advance search mode')
 *   **Read E-Books** (e.g 'read book')
 *   **Can tell price of any cryptocurrency** (e.g 'tell me the price of Bitcoin')
-*   **Send Message on WHATSAPP ** (e.g 'send message on whatsapp')
+*   **Send Message on WHATSAPP** (e.g 'send message on whatsapp')
 *   **Tells a joke** (e.g 'tell me a joke')
 *   **Take screenshot** (e.g 'take screenshot')
 *   **Switch the Window** (e.g 'switch the window')
